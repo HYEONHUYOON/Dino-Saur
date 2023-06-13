@@ -1,0 +1,17 @@
+﻿  GameDoubleBuffer.cpp
+C:\Users\윤현후\source\repos\GameDoubleBuffer\GameDoubleBuffer\Object.hpp(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\윤현후\source\repos\GameDoubleBuffer\GameDoubleBuffer\Object.hpp(2,1): message : 이전에 명령줄에서 선언된 '_CRT_SECURE_NO_WARNINGS'
+C:\Users\윤현후\source\repos\GameDoubleBuffer\GameDoubleBuffer\Object.hpp(52,1): warning C4091: '': 변수를 선언하지 않으면 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::nanoseconds>' 왼쪽은 무시됩니다.
+C:\Users\윤현후\source\repos\GameDoubleBuffer\GameDoubleBuffer\Object.hpp(188,1): warning C4091: '': 변수를 선언하지 않으면 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::nanoseconds>' 왼쪽은 무시됩니다.
+C:\Users\윤현후\source\repos\GameDoubleBuffer\GameDoubleBuffer\Object.hpp(274,1): warning C4091: '': 변수를 선언하지 않으면 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::nanoseconds>' 왼쪽은 무시됩니다.
+C:\Users\윤현후\source\repos\GameDoubleBuffer\GameDoubleBuffer\Object.hpp(401,1): warning C4091: '': 변수를 선언하지 않으면 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::nanoseconds>' 왼쪽은 무시됩니다.
+C:\Users\윤현후\source\repos\GameDoubleBuffer\GameDoubleBuffer\Object.hpp(502,1): warning C4091: '': 변수를 선언하지 않으면 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::nanoseconds>' 왼쪽은 무시됩니다.
+C:\Users\윤현후\source\repos\GameDoubleBuffer\GameDoubleBuffer\Scene.hpp(33): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\윤현후\source\repos\GameDoubleBuffer\GameDoubleBuffer\Scene.hpp(34): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\윤현후\source\repos\GameDoubleBuffer\GameDoubleBuffer\Scene.hpp(175,39): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\윤현후\source\repos\GameDoubleBuffer\GameDoubleBuffer\Scene.hpp(190,38): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\윤현후\source\repos\GameDoubleBuffer\GameDoubleBuffer\Scene.hpp(230,25): warning C4244: '인수': 'ULONGLONG'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\윤현후\source\repos\GameDoubleBuffer\GameDoubleBuffer\Scene.hpp(239,1): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\윤현후\source\repos\GameDoubleBuffer\GameDoubleBuffer\Scene.hpp(240,1): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\윤현후\source\repos\GameDoubleBuffer\GameDoubleBuffer\GameDoubleBuffer.cpp(13): warning C4715: 'KeyEvent': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  GameDoubleBuffer.vcxproj -> C:\Users\윤현후\source\repos\GameDoubleBuffer\x64\Debug\GameDoubleBuffer.exe

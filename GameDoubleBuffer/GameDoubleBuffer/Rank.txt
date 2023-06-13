@@ -1,0 +1,16 @@
+CEC 14	
+BZB 12	
+AZY 2	
+AZX 7	
+CCC 5	
+CCC 8	
+CCD 7	
+DDD 8	
+CCC 9	
+CCC 6	
+FFG 7	
+AYA 6	
+AEG 32	
+JLM 7	
+BCD 6	
+GHI 4	
